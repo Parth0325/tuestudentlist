@@ -1,20 +1,20 @@
 public class Student {
-    private string sname;
-    private string sID;
+    private String sname;
+    private String sID;
 
-    public string getSname() {
+    public String getSname() {
         return sname;
     }
 //this file has been edited on github .com to show fetch+merge
-    public void setSname(string sname) {
+    public void setSname(String sname) {
         this.sname = sname;
     }
 
-    public string getsID() {
+    public String getsID() {
         return sID;
     }
 
-    public void setsID(string sID) {
+    public void setsID(String sID) {
         this.sID = sID;
     }
     
