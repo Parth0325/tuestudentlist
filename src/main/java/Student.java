@@ -5,7 +5,7 @@ public class Student {
     public string getSname() {
         return sname;
     }
-//this file has been edited on github .com to show editing
+//this file has been edited on github .com to show fetch+merge
     public void setSname(string sname) {
         this.sname = sname;
     }
